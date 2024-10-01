@@ -1,2 +1,2 @@
 # moonlightjs
-https://comesssomeall.github.io/moonlightjs/
+https://mercurial-web.github.io/moonlightjs/
